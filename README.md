@@ -1,0 +1,1 @@
+This project is a basic recipe website that i am building as a part of the odin project. I will use html to create webpages, add links and images, and organize content using heading, lists and other html elements.
