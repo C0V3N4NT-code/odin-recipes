@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 { 
+    color: darkred;
+text-align: center;
+font-size: 40px;
+}
+
+h2 {
+color: purple;
+font-size: 28px;
+
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+ul {
+    background-color: lightyellow;
+}
+
+ol {
+    background-color: lightgreen;
+}
+
+li {
+    font-size: 17px;
+}
+
+img {
+    width: 300 height: 300
+}
